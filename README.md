@@ -10,8 +10,8 @@
 
 ### <u>To Dos:</u>
 
-- [x] Install React using Vite.
-- [x] Install and configure Tailwind css.
+- [ ] Install React using Vite.
+- [ ] Install and configure Tailwind css.
 - [ ] Create main structure. Create HTML markup for 7 pages.
   - [ ] Create main page. This page will show most popular movies / TV Shows.
   - [ ] Add search filed on main page.
