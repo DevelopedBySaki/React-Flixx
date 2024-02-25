@@ -10,21 +10,12 @@
 
 ### <u>To Dos:</u>
 
-- [ ] Install React using Vite.
-- [ ] Install and configure Tailwind css.
-- [ ] Create main structure. Create HTML markup for 7 pages.
-  - [ ] Create main page. This page will show most popular movies / TV Shows.
-  - [ ] Add search filed on main page.
-  - [ ] Create display movies page.
-  - [ ] Create display movie details page.
-  - [ ] Create display tv shows page.
-  - [ ] Create display tv show details.
-  - [ ] Create display actors page.
-  - [ ] Create display actor details / bio.
-  - [ ] Pagination.
+- [x] Install React using Vite.
+- [x] Install and configure Tailwind css.
 - [ ] Split HTML into components.
-  - [ ] Navigation Bar Component. Install and implement React Router.
+  - [ ] Header / Navigation Bar Component.
   - [ ] Search field component.
+  - [ ] Card component.
   - [ ] Image frame Component
   - [ ] ? Image component
   - [ ] Back <> Forward button
