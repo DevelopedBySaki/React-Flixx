@@ -13,14 +13,15 @@
 - [x] Install React using Vite.
 - [x] Install and configure Tailwind css.
 - [ ] Split HTML into components.
-  - [ ] Header / Navigation Bar Component.
+  - [x] Header / Navigation Bar Component.
   - [ ] Search field component.
-  - [ ] Card component.
+  - [x] Card component.
   - [ ] Image frame Component
   - [ ] ? Image component
+  - [ ] Details page
   - [ ] Back <> Forward button
-  - [ ] Footer Component
-    - [ ] Social Media component
+  - [x] Footer Component
+    - [x] Social Media component
 - [ ] Identify event handlers.
   - [ ] Show details onClick.
   - [ ] Show search results onSubmit.
@@ -36,4 +37,6 @@
 
 - [ ] Create circle progress bar for rating.
 
-### <u>Testing:</u>
+### <u>Bug fixing:</u>
+
+- [ ] fix animation in Card component card div.
