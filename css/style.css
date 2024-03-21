@@ -251,8 +251,7 @@ section h2 {
   margin-top: 20px;
 }
 
-.details-bottom {
-}
+.details-bottom {}
 
 .details-bottom li {
   margin: 15px 0;
@@ -284,6 +283,7 @@ section h2 {
 }
 
 .search-radio label {
+  margin-left: 5px;
   margin-right: 15px;
 }
 

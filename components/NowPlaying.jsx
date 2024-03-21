@@ -1,9 +1,9 @@
-import "../css/style.css";
-
-export default function Display() {
-  return (
+export default function NowPlaying() {
+    return (
+    // This will be a single card component with map loop for now playing movies
     <section className="container">
-      <h2>Popular Movies / Shows / Actors</h2>
+      <h2>Now Playing</h2>
+      {/* <h2>{REACT_APP_API_KEY}</h2> */}
       <div
         id="popular-movies"
         className="grid"
@@ -130,5 +130,5 @@ export default function Display() {
         </div>
       </div>
     </section>
-  );
+    );
 }
