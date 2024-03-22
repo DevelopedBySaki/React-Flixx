@@ -258,3 +258,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 .env
+
+# vit config files
+vite.config.js.*
