@@ -1,6 +1,9 @@
+import "../css/style.css";
 
 export default function TVShows() {
-    return <div>TVShows</div>;
-  }
-
-
+  return (
+    <section className="container">
+      <div>TVShows</div>
+    </section>
+  );
+}

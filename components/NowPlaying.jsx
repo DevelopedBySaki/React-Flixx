@@ -34,6 +34,7 @@ export default function NowPlaying() {
       <div id='popular-movies' className='grid'>
         <div className='card'>
           <a href='movie-details.html?id=1'>
+            {/* ToDo: check IDs */}
             <img src={`https://image.tmdb.org/t/p/w500${data.results[0].poster_path}`} className='card-img-top' alt='Movie Title' />
             {/* <img src='../images/no-image.jpg' className='card-img-top' alt='Movie Title' /> */}
           </a>

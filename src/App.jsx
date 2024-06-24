@@ -1,9 +1,9 @@
 import Home from "../components/Home";
 import Header from "../components/Header";
-import Footer from "../components/Footer";
+import Movies from "../components/Movies";
 import TVShows from "../components/TVShows";
 import Actors from "../components/Actors";
-import Movies from "../components/Movies";
+import Footer from "../components/Footer";
 import { Route, Routes } from "react-router-dom";
 
 function App() {

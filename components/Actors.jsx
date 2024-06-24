@@ -1,3 +1,9 @@
+import "../css/style.css";
+
 export default function Actors() {
-  return <div>Actors</div>;
+  return (
+    <section className="container">
+      <div>Actors</div>
+    </section>
+  );
 }
